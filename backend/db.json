@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
+      "name": "Notebook Mac Pro 2",
       "price": 12000.89
     },
     {
@@ -26,9 +26,14 @@
       "id": 5
     },
     {
-      "name": "Novo Produto zika",
-      "price": "120",
+      "name": "Caneta Prata",
+      "price": "12.30",
       "id": 6
+    },
+    {
+      "name": "Produto Top",
+      "price": "123",
+      "id": 7
     }
   ]
 }
